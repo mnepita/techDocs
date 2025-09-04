@@ -1,0 +1,8 @@
+site_name: My Docz
+
+nav:
+  - Home: index.md
+  - About: readme.md
+  - test: test.md
+
+theme: readthedocs
